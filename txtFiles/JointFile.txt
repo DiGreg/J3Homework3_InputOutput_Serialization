@@ -1,0 +1,37 @@
+1.
+Hello world!
+Hello world!
+Hello world!
+Hello world!
+Hello world!
+Hello world!
+Hello world!
+2.
+I love Java!
+I love Java!
+I love Java!
+I love Java!
+I love Java!
+I love Java!
+I love Java!
+3.
+She is a lier!
+She is a lier!
+She is a lier!
+She is a lier!
+She is a lier!
+She is a lier!
+4.
+He is a driver.
+He is a driver.
+He is a driver.
+He is a driver.
+He is a driver.
+He is a driver.
+5.
+It is strange...
+It is strange...
+It is strange...
+It is strange...
+It is strange...
+It is strange...
